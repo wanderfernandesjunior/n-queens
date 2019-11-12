@@ -11,3 +11,9 @@ SAÍDA: retorna a primeira solução encontrada, por exemplo:
     localhost:~$ ./nqueens.py
     4 dfs
     2 4 1 3
+    
+Referências consultadas:
+
+ - Livro AIMA - "Artificial Intelligence - A Modern Approach"
+ - Github oficial do livro AIMA (https://github.com/aimacode)
+ - Documentação do Python (https://docs.python.org)
